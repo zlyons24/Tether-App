@@ -1,10 +1,10 @@
-# Threshold
+# Tether
 
-Threshold is a mobile wellness application focused on self-awareness, journaling,
+Tether is a mobile wellness application focused on self-awareness, journaling,
 and sensitivity tracking. The app helps users better understand patterns in their
 body, mind, and daily experience.
 
-Threshold is developed and operated by **Zach Lyons**.
+Tether is developed and operated by **Zach Lyons**.
 
 The application may offer optional paid features or subscriptions through the
 Apple App Store and Google Play Store.
