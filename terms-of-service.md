@@ -2,15 +2,15 @@
 
 **Last Updated: January 29, 2026**
 
-Please read these Terms of Service ("Terms") carefully before using the Threshold mobile application (the "App") operated by PLACEHOLDER ("we," "our," or "us").
+Please read these Terms of Service ("Terms") carefully before using the Tether mobile application (the "App") operated by Zach Lyons ("we," "our," or "us").
 
 ## 1. Acceptance of Terms
 
-By downloading, installing, or using Threshold, you agree to be bound by these Terms. If you do not agree to these Terms, do not use the App.
+By downloading, installing, or using Tether, you agree to be bound by these Terms. If you do not agree to these Terms, do not use the App.
 
 ## 2. Description of Service
 
-Threshold is a personal health tracking and journaling application designed to help users:
+Tether is a personal health tracking and journaling application designed to help users:
 
 - Track symptoms, foods, supplements, and daily activities
 - Identify potential triggers and patterns
@@ -19,7 +19,7 @@ Threshold is a personal health tracking and journaling application designed to h
 
 ## 3. User Responsibilities
 
-By using Threshold, you agree to:
+By using Tether, you agree to:
 
 - Provide accurate information when using the App
 - Use the App only for lawful purposes
@@ -29,7 +29,7 @@ By using Threshold, you agree to:
 
 ## 4. Health Disclaimer
 
-**IMPORTANT: Threshold is NOT a medical device and does NOT provide medical advice.**
+**IMPORTANT: Tether is NOT a medical device and does NOT provide medical advice.**
 
 - The App is for informational and personal tracking purposes only
 - Information provided by the App, including AI responses, is not a substitute for professional medical advice, diagnosis, or treatment
@@ -41,7 +41,7 @@ See our full [Health Disclaimer](/health-disclaimer) for more information.
 
 ## 5. Intellectual Property
 
-The App and its original content, features, and functionality are owned by PLACEHOLDER and are protected by international copyright, trademark, and other intellectual property laws.
+The App and its original content, features, and functionality are owned by Zach Lyons and are protected by international copyright, trademark, and other intellectual property laws.
 
 You may not:
 
@@ -76,7 +76,7 @@ TO THE MAXIMUM EXTENT PERMITTED BY LAW:
 
 ## 9. Indemnification
 
-You agree to indemnify and hold harmless PLACEHOLDER and its officers, directors, employees, and agents from any claims, damages, losses, or expenses arising from your use of the App or violation of these Terms.
+You agree to indemnify and hold harmless Tether and its officers, directors, employees, and agents from any claims, damages, losses, or expenses arising from your use of the App or violation of these Terms.
 
 ## 10. Termination
 
@@ -102,8 +102,8 @@ These Terms, together with our Privacy Policy and Health Disclaimer, constitute 
 
 If you have questions about these Terms, please contact us at:
 
-**Email**: PLACEHOLDER@EMAIL.COM
+**Email**: zach.lyons24@gmail.com
 
 ---
 
-*By using Threshold, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.*
+*By using Tether, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.*
