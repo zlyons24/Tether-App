@@ -2,13 +2,13 @@
 
 **Last Updated: January 29, 2026**
 
-PLACEHOLDER ("we," "our," or "us") operates the Threshold mobile application (the "App"). This Privacy Policy explains how we collect, use, and protect your information when you use our App.
+Tether ("we," "our," or "us") operates the Tether mobile application (the "App"). This Privacy Policy explains how we collect, use, and protect your information when you use our App.
 
 ## 1. Information We Collect
 
 ### Information Stored Locally on Your Device
 
-Threshold stores all your personal data locally on your device. This includes:
+Tether stores all your personal data locally on your device. This includes:
 
 - **Profile Information**: Your name (optional) and app preferences
 - **Health Journal Entries**: Symptoms, foods, supplements, recovery activities, and events you log
@@ -64,7 +64,7 @@ You have full control over your data:
 
 ## 6. Children's Privacy
 
-Threshold is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us.
+Tether is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us.
 
 ## 7. Changes to This Privacy Policy
 
@@ -74,8 +74,8 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 If you have questions about this Privacy Policy, please contact us at:
 
-**Email**: PLACEHOLDER@EMAIL.COM
+**Email**: zach.lyons24@gmail.com
 
 ---
 
-*This privacy policy is provided for informational purposes. Threshold is designed with privacy in mind—your health data stays on your device.*
+*This privacy policy is provided for informational purposes. Tether is designed with privacy in mind—your health data stays on your device.*
