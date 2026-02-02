@@ -1,6 +1,6 @@
-# Threshold Legal Documents
+# Tether Legal Documents
 
-This folder contains the legal documents for the Threshold app.
+This folder contains the legal documents for the Tether app.
 
 ## Documents
 
