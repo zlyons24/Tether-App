@@ -23,8 +23,8 @@ These documents are designed to be hosted on GitHub Pages. To set up:
 ## Before Publishing
 
 Replace all instances of:
-- `PLACEHOLDER` → Your business/developer name
-- `PLACEHOLDER@EMAIL.COM` → Your contact email
+- `Zach Lyons` → Your business/developer name
+- `zach.lyons24@gmail.com` → Your contact email
 
 ## Files to Update After Hosting
 
