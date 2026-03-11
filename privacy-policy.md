@@ -1,73 +1,52 @@
 Privacy Policy
-Last Updated: March 2, 2026
-
-Tether ("we," "our," or "us") operates the Tether mobile application (the "App"). This Privacy Policy explains how we collect, use, and protect your information when you use our App.
-
+Last Updated: March 11, 2026
+Tether ("we," "our," or "us") operates the Tether mobile application (the "App"). This Privacy Policy explains what information the App collects, how that information is used, when it is shared, and the choices available to you.
 1. Information We Collect
-Information Stored on Your Device
-Tether stores your personal data locally on your device. This includes:
-
-Profile Information: Your name (optional) and app preferences
-Health Journal Entries: Symptoms, foods, supplements, recovery activities, and events you log
-Sensitivity Profile: Conditions, triggers, and safe items you identify
-Protocols & Bookmarks: Your saved healing protocols and bookmarked items
-Streak Data: Your daily logging activity and progress tracking
-AI Chat History: Conversations with the Cortex AI assistant
-Settings: Theme preferences, notification settings, and other app configurations
-Information Synced to the Cloud
-When you create an account and sign in, the following data is synced to our secure cloud servers (powered by Supabase) to enable backup and cross-device access:
-
-Journal Entries: Your symptom logs, food entries, supplements, and events
-User Settings: Your sensitivity profile, sanctuary items, and app preferences
-Account Information: Your authentication details (email or Apple ID identifier)
-This sync occurs automatically while you are signed in. If you use the App without signing in, your data remains stored locally on your device only.
-
-Information Shared with Third-Party Services
-Google Gemini API: When you use the "Ask Cortex" AI assistant, your health profile and conversation context are sent to Google's Gemini API to generate personalized responses. Google processes this data according to their API Data Terms and does not use API data to train their models.
-Stripe: If you subscribe to Tether Premium, your payment is processed by Stripe. We do not store your credit card information. See Stripe's Privacy Policy.
-Apple Sign In: If you sign in with Apple, we receive your Apple ID identifier (and optionally your name and email if you choose to share them). See Apple's Privacy Policy.
-2. How We Use Your Information
-We use your information solely to:
-
-Provide the App's core tracking, journaling, and insight features
-Generate personalized health insights through the AI assistant
-Sync your data across devices when you are signed in
-Process subscription payments through Stripe
-Send you optional notifications (streaks, reminders, insights)
-Calculate streaks and progress tracking features
-3. Data Storage and Security
-Local data is stored on your device using secure storage mechanisms
-Cloud data is stored on Supabase servers with encryption at rest and in transit
-We use industry-standard security practices to protect your data
-You can export your data at any time through the Settings menu
-You can delete all your data at any time through the Settings menu
-4. Data Sharing
-We do not sell, rent, or share your personal information with third parties, except:
-
-Cloud Sync: When signed in, your data is stored on Supabase cloud servers for backup and sync purposes
-AI Features: When you use Cortex AI, relevant data is sent to Google's Gemini API to generate responses
-Payment Processing: Subscription payments are processed by Stripe
-Legal Requirements: If required by law or to protect our rights
-5. Your Rights and Choices
-You have full control over your data:
-
-Access: View all your data within the App at any time
-Export: Export your complete profile and journal data from Settings
-Delete: Clear your journal entries or all app data from Settings
-Opt-Out of AI: Simply don't use the Cortex AI features if you prefer not to share data with Google
-Opt-Out of Sync: Use the App without signing in to keep all data local-only
-Cancel Subscription: Manage or cancel your subscription at any time through Stripe's customer portal
-6. Children's Privacy
-Tether is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us.
-
-7. Medical Disclaimer
-Tether is a personal health tracking and wellness tool. It is not intended to diagnose, treat, cure, or prevent any disease. The AI-generated insights are for informational purposes only and should not be considered medical advice. Always consult with a qualified healthcare provider regarding any health concerns.
-
-8. Changes to This Privacy Policy
-We may update this Privacy Policy from time to time. We will notify you of any changes by updating the "Last Updated" date at the top of this policy. Your continued use of the App after changes constitutes acceptance of the updated policy.
-
-9. Contact Us
-If you have questions about this Privacy Policy, please contact us at:
-
-Email: 
-zach.lyons24@gmail.com
+Depending on how you use Tether, the App may collect and store:
+Account Information: your email address, user ID, and optional profile name when you create an account or sign in.
+Health and Wellness Data: journal entries, symptoms, foods, supplements, recovery activities, conditions, triggers, safe items, sensitivity quiz results, and sensitivity profile data that you enter or generate in the App.
+AI Feature Data: Cortex chat messages, food scan images and results, profile analysis requests, and related context used to generate AI responses.
+App Data and Preferences: bookmarks, codex notes, saved scans, streak data, notification preferences, and similar in-app settings.
+Purchase Information: subscription status and purchase entitlement information provided through Apple, Google Play, and RevenueCat.
+2. How Information Is Collected
+Tether collects information in the following ways:
+Directly from you when you create an account, type messages, complete the sensitivity quiz, save notes, scan foods, or log health information.
+Automatically from app use when the App stores your settings, sync state, saved content, and subscription status.
+From service providers used to operate the App, including Supabase for account and synced data storage, RevenueCat for subscription management, and Google Gemini for AI features that you choose to enable.
+3. How We Use Information
+We use information to:
+provide journaling, tracking, quiz, scan, and profile features;
+sync your saved data across devices when you sign in;
+power Cortex AI chat, food analysis, and profile analysis features;
+manage subscriptions and restore purchases; and
+maintain app functionality, settings, and backups.
+4. AI Features and Third-Party Processing
+If you choose to enable Cortex AI features, Tether may securely send relevant data to Google Gemini to generate responses and insights.
+Depending on the feature you use, that data may include:
+the message or question you submit;
+Cortex conversation history and related conversation context;
+journal entries, symptoms, foods, supplements, or other health and wellness information you have logged;
+sensitivity profile details, conditions, triggers, safe items, quiz results, and related patterns; and
+food scan images, extracted ingredient information, and scan results.
+Tether asks for your permission in the App before sending this data to Google Gemini. If you do not grant permission, AI-powered features will not send your data for processing.
+5. Data Storage and Sharing
+Tether stores data locally on your device and, when you sign in, may also store synced app data in your account through Supabase so it can be restored across devices.
+We do not sell your personal information. We share information only as needed to operate the App and its features, including with:
+Supabase for account services and cloud-synced app data;
+Google Gemini for AI processing that you choose to enable; and
+RevenueCat, Apple, and Google Play for subscription and purchase management.
+6. Your Choices
+You can:
+choose whether to enable AI processing in the App;
+sign in or use the App without signing in for limited functionality;
+export your data from the App settings;
+delete journal data or clear all local app data from the App settings; and
+request account and associated cloud data deletion by visiting Delete Account.
+7. Security
+We use reasonable safeguards to protect information handled by the App. Data sent between the App and our service providers is transmitted securely.
+8. Children's Privacy
+Tether is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13.
+9. Changes to This Policy
+We may update this Privacy Policy from time to time by posting an updated version with a new "Last Updated" date.
+10. Contact
+If you have questions about this Privacy Policy, contact us at zach.lyons24@gmail.com.
